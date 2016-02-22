@@ -1,0 +1,236 @@
+body{
+  }
+  .head1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+    margin-top: 50px;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .head2{
+   font-size: 25px;
+   text-align: center;
+   font-weight: bold;
+   font-family: 'Titillium Web', sans-serif;
+  }
+  .text-color{
+    color: #3c4761;
+  }
+  .head3{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .description{
+    font-size: 15px;
+    font-family: 'Titillium Web', sans-serif;
+  }
+.head-wrap{
+  background-color: #87509c;
+  text-align: center;
+  }
+  .header-outer ul li{
+    font-size: 15px;
+    margin-top: 30px;
+    color: #ffffff;
+    font-family: 'Titillium Web', sans-serif;
+    float: left;
+    margin-left: 15px;
+  }
+  .header-wrap{
+    margin-top: 100px;
+  }
+  .header-wrap h1{
+    color: #fff;
+  }
+.bottom-margin{
+  margin-bottom: 50px;
+}
+.header-wrap input[type="button"]{
+ background-color: #eb7d4b;
+ border: none;
+ padding: 10px;
+ width: 220px;
+ color: white;
+ line-height: 20px;
+ margin-top: 30px;
+ margin-bottom: 85px;
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+}
+.service-blog{
+  background-color: #17c2a4;
+}
+.blog{
+  text-align: center;
+}
+.blog h1 {
+  color: #ffffff;
+}
+ .line{
+
+ }
+.blog h3{
+  color: white;
+}
+.service{
+  text-align: center;
+}
+.member{
+  text-align: center;
+}
+.service .fa{
+  font-size: 50px;
+  margin-top: 50px;
+}
+.flag{
+  color: #f57b71;
+}
+.pencil{
+  color:#f1c40f;
+}
+.plane{
+  color: #daeaf2;
+}
+.setting{
+  color: #487fbc;
+}
+.team{
+  text-align: center;
+}
+.skill{
+  text-align: center;
+}
+.service h2{
+  color: #fff;
+}
+.service p{
+  color: white;
+}
+.team-member{
+background-color: #e7f1f8;
+}
+.image{
+  width: 125px;
+      margin-top: 50px;
+}
+.section{
+  text-align: center;
+}
+.portfolio-work{
+  background-color: #ffdd99;
+  text-align: center;
+}
+.work img{
+  margin-top:50px;
+  text-align: center;
+}
+.submit input[type="button"]{
+ background-color: #17c2a4;
+ border: none;
+ padding: 10px;
+ width: 220px;
+ color: white;
+ line-height: 20px;
+ margin-top: 30px;
+ margin-bottom: 85px;
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+}
+.about-part{
+  background-color: #d74680;
+  text-align: center;
+}
+.about-color{
+  color: white;
+}
+.about-people img{
+width: 75px;
+float: left;
+}
+.head4{
+  color:white;
+  float:left;
+}
+.testimonials{
+  width: 100%;
+  margin:0;
+  padding: 0;
+  float: left;
+}
+.about-people p{
+  float: left;
+line-height: 43px;
+margin-left: -101px;
+color: #fac996;
+}
+.about-people .text {
+      margin-left: 100px;
+}
+.about-people h5{
+  float: left;
+    margin-left: 31px;
+    font-size: 18px;
+    color: white;
+}
+.footer-touch{
+  background-color: #3c5499;
+  text-align: center;
+}
+.get-in-touch-form input[type="text"]{
+  color: white;
+    background-color: #273a71;
+    padding: 8px;
+    width: 247px;
+    border: none;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+.get-in-touch h1{
+  color: white;
+}
+.get-in-touch address{
+  color: white;
+}
+.get-in-touch-message textarea{
+  padding: 13px;
+  width: 500px;
+  height: 148px;
+  margin-top: 22px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-top-left-radius: 4px;
+  border: none;
+  background-color: #273a71;
+  border-top-right-radius: 4px;
+}
+.footer-main{
+  background-color:#344b8e;
+  text-align: center;
+}
+.footer-main ul li{
+  font-size: 22px;
+  color: #fff;
+  font-family: 'Titillium Web', sans-serif;
+  line-height: 80px;
+  display: inline;
+  margin-left: 56px;
+}
+@media only screen and (max-width:990px) and (min-width:780px) {
+  .footer-main ul li{
+    font-size: 15px;
+    margin-left: 40px;
+  }
+.header-outer ul li{
+  font-size: 10px;
+  margin-left: 15px;
+}
+
+}
